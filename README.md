@@ -1,5 +1,5 @@
-# sprint3-COA-1CCPZ
-Entregáveis da Sprint 3 de Computer Organization and Architecture
+# Sprint 3 - Computer Organization and Architecture
+Link do Projeto criado para a Sprint 3 de Computer Organization and Architecture
 
 *Alan Junio Araujo de Souza - 574112  
 *Arthur Vettorazzo de Souza - 569445  
