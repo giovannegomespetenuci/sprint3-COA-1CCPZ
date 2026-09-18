@@ -1,25 +1,25 @@
-# Sistema Inteligente de Controle de Sessão de Recarga (Veículos Elétricos) ⚡🚗
+# Sistema Inteligente de Controle de Sessão de Recarga (Veículos Elétricos)
 
 Projeto desenvolvido para a Sprint 3 da disciplina de **Computer Organization and Architecture (COA)**. O projeto consiste em um sistema baseado no Raspberry Pi Pico (RP2040) inspirado no conceito do *GoodWe Smart Energy Controller*, que gerencia a recarga de um veículo elétrico com base na energia disponível (Geração de energia vs. Consumo da residência).
 
-## 👥 Integrantes do Projeto
+## Integrantes do Projeto
 
-*   **Alan Junio Araujo de Souza** - RM 574112[cite: 1]
-*   **Arthur Vettorazzo de Souza** – RM 569445[cite: 1]
-*   **Brayan Barbosa Dos Santos** - RM 573682[cite: 1]
-*   **Giovanne Gomes Petenuci** - RM 574091[cite: 1]
-*   **Gustavo Zibini Belizario** - RM 561376[cite: 1]
-*   **Luiz Otávio Brito Freixo** - RM 569977[cite: 1]
+*   **Alan Junio Araujo de Souza** - RM 574112
+*   **Arthur Vettorazzo de Souza** – RM 569445
+*   **Brayan Barbosa Dos Santos** - RM 573682
+*   **Giovanne Gomes Petenuci** - RM 574091
+*   **Gustavo Zibini Belizario** - RM 561376
+*   **Luiz Otávio Brito Freixo** - RM 569977
 
-## 🔗 Links Importantes
+## Links Importantes
 
-*   **Apresentação e Demonstração:** [Assista ao vídeo do projeto no YouTube](https://www.youtube.com/watch?v=8P1V_j2c_ig)[cite: 1]
+*   **Apresentação e Demonstração:** [Assista ao vídeo do projeto no YouTube](https://www.youtube.com/watch?v=8P1V_j2c_ig)
 
-## 🚀 Como Executar
+## Como Executar
 
 Para testar o projeto, não é necessário instalar nenhuma IDE ou configurar o hardware fisicamente. **Basta copiar o link do simulador na internet (fornecido pelo grupo) no seu navegador que o projeto já abrirá pronto para rodar.** A simulação iniciará automaticamente o display e carregará a interface gráfica.
 
-## 🧠 Como o Código Funciona
+## Como o Código Funciona
 
 O código foi programado em MicroPython para o microcontrolador Raspberry Pi Pico (RP2040) e é dividido em blocos principais:
 
